@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Yubico/yubikey-manager/commit/4ca60f706af930459138d8dc0f0f953480e1c7a4",
       "git:hexsha": "4ca60f706af930459138d8dc0f0f953480e1c7a4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Yubico/yubikey-manager/commit/b628be2b6e6844c1ecd4008b9ddfcf3886910c03",
