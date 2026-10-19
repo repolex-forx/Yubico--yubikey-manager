@@ -1,0 +1,11 @@
+{
+  "org": "Yubico",
+  "repo": "yubikey-manager",
+  "versions": [
+    {
+      "commit": "4ca60f706af930459138d8dc0f0f953480e1c7a4",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:09:18.630709+00:00"
+    }
+  ]
+}
